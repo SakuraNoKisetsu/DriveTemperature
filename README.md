@@ -7,8 +7,12 @@
 
 ---
 
+<div align = center>
+
 [![Button Repository]][Repository]
 
+</div>
+	
 ---
 
 <br>
