@@ -5,6 +5,14 @@
 
 <br>
 
+---
+
+[![Button Repository]][Repository]
+
+---
+
+<br>
+
 ## Features
 
 - Reports the temperature of disk / solid state drives
@@ -83,6 +91,6 @@ Information technology - SCSI / ATA Translation - 5 (SAT-5)`
 [Badge License]: https://img.shields.io/badge/License-GPL_2-blue.svg?style=for-the-badge
 [Badge Kernel]: https://img.shields.io/badge/Linux_Kernel-5.5+-427819.svg?style=for-the-badge
 
-[Link Name]: https://github.com/groeck/drivetemp
+[Repository]: https://github.com/groeck/drivetemp
 
 [License]: LICENSE
