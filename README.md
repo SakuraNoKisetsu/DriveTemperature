@@ -97,4 +97,4 @@ Information technology - SCSI / ATA Translation - 5 (SAT-5)`
 
 [Repository]: https://github.com/groeck/drivetemp
 
-[License]: LICENSE
+[License]: https://github.com/groeck/drivetemp/LICENSE
